@@ -19,7 +19,7 @@ $('#derecha').on("swipeleft", function(){
 		navigator.notification.vibrate(1000);
 		break;
 	}
-	},Aplicacion ,"Beep,Vibrar,Cancelar");
+	},"Aplicacion ","Beep,Vibrar,Cancelar");
 	
 });
 },false);
